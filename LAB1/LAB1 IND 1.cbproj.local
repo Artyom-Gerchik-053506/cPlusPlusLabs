@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/13 16:22:48.000.992,=D:\BUILDER_PROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>2021/02/13 16:22:49.000.393,=D:\BUILDER_PROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/02/13 16:23:08.000.120,D:\BUILDER_PROJECTS\Project1.cbproj=D:\BUILDER_PROJECTS\LAB1 IND 1.cbproj</Transaction>
+    <Transaction>2021/02/13 16:23:08.000.060,D:\BUILDER_PROJECTS\Project1PCH1.h=D:\BUILDER_PROJECTS\LAB1 IND 1PCH1.h</Transaction>
+    <Transaction>2021/02/13 16:23:58.000.121,=D:\BUILDER_PROJECTS\File1.h</Transaction>
+    <Transaction>2021/02/13 16:24:09.000.101,D:\BUILDER_PROJECTS\File1.h=D:\BUILDER_PROJECTS\ris.h</Transaction>
+    <Transaction>2021/02/13 21:15:58.000.271,D:\BUILDER_PROJECTS\LAB1 IND 1.cbproj=D:\BUILDER_PROJECTS\LAB1 IND 1.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="LAB1 IND 1.cpp"/>
+    <File Path="LAB1 IND 1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="d:\builder\..\BUILDER_PROJECTS\Unit1.h"/>
+    <File Path="ris.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

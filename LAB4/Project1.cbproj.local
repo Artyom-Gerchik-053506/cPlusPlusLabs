@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/04/08 18:38:30.189,=C:\BUILDERPROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>2021/04/08 18:38:31.349,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/08 18:39:08.229,C:\BUILDERPROJECTS\mainUnit.h=C:\BUILDERPROJECTS\Unit1.h</Transaction>
+    <Transaction>2021/04/08 18:39:08.229,C:\BUILDERPROJECTS\mainUnit.cpp=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/08 18:39:08.229,C:\BUILDERPROJECTS\mainUnit.dfm=C:\BUILDERPROJECTS\Unit1.dfm</Transaction>
+    <Transaction>2021/04/08 18:39:37.766,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/08 18:39:48.778,C:\BUILDERPROJECTS\myOwnStack.cpp=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/08 18:39:48.778,C:\BUILDERPROJECTS\myOwnStack.h=C:\BUILDERPROJECTS\Unit1.h</Transaction>
+    <Transaction>2021/04/08 18:45:31.778,C:\BUILDERPROJECTS\Project1.cbproj=C:\BUILDERPROJECTS\Project1.cbproj</Transaction>
+    <Transaction>2021/04/08 18:48:26.045,C:\BUILDERPROJECTS\LAB4\Project1.cbproj=C:\BUILDERPROJECTS\Project1.cbproj</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="C:\BUILDERPROJECTS"/>
+    <File Path="..\Project1PCH1.h"/>
+    <File Path="..\mainUnit.cpp"/>
+    <File Path="..\mainUnit.cpp"/>
+    <File Path="..\mainUnit.dfm"/>
+    <File Path="..\mainUnit.h"/>
+    <File Path="..\myOwnStack.cpp"/>
+    <File Path="..\myOwnStack.cpp"/>
+    <File Path="..\myOwnStack.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

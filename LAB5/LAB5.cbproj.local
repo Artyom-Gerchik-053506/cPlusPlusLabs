@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/21 20:20:48.000.855,=C:\BUILDERPROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>2021/04/21 20:20:49.000.252,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/21 20:20:56.000.191,C:\BUILDERPROJECTS\Project1.cbproj=C:\BUILDERPROJECTS\lab5.cbproj</Transaction>
+    <Transaction>2021/04/21 20:20:56.000.186,C:\BUILDERPROJECTS\Project1PCH1.h=C:\BUILDERPROJECTS\lab5PCH1.h</Transaction>
+    <Transaction>2021/04/21 20:21:08.000.169,C:\BUILDERPROJECTS\lab5PCH1.h=C:\BUILDERPROJECTS\fdsPCH1.h</Transaction>
+    <Transaction>2021/04/21 20:21:08.000.173,C:\BUILDERPROJECTS\lab5.cbproj=C:\BUILDERPROJECTS\fds.cbproj</Transaction>
+    <Transaction>2021/04/21 20:21:12.000.668,C:\BUILDERPROJECTS\fdsPCH1.h=C:\BUILDERPROJECTS\LAB5PCH1.h</Transaction>
+    <Transaction>2021/04/21 20:21:12.000.672,C:\BUILDERPROJECTS\fds.cbproj=C:\BUILDERPROJECTS\LAB5.cbproj</Transaction>
+    <Transaction>2021/04/21 20:21:28.000.651,C:\BUILDERPROJECTS\Unit1.dfm=C:\BUILDERPROJECTS\mainUnit.dfm</Transaction>
+    <Transaction>2021/04/21 20:21:28.000.651,C:\BUILDERPROJECTS\Unit1.cpp=C:\BUILDERPROJECTS\mainUnit.cpp</Transaction>
+    <Transaction>2021/04/21 20:21:28.000.651,C:\BUILDERPROJECTS\Unit1.h=C:\BUILDERPROJECTS\mainUnit.h</Transaction>
+    <Transaction>2021/04/21 20:21:54.000.993,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/21 20:22:08.000.535,C:\BUILDERPROJECTS\Unit1.h=C:\BUILDERPROJECTS\PointsList.h</Transaction>
+    <Transaction>2021/04/21 20:22:08.000.534,C:\BUILDERPROJECTS\Unit1.cpp=C:\BUILDERPROJECTS\PointsList.cpp</Transaction>
+    <Transaction>2021/04/21 20:26:41.000.487,C:\BUILDERPROJECTS\PointsList.h=C:\BUILDERPROJECTS\LAB5\PointsList.h</Transaction>
+    <Transaction>2021/04/21 20:26:41.000.487,C:\BUILDERPROJECTS\PointsList.cpp=C:\BUILDERPROJECTS\LAB5\PointsList.cpp</Transaction>
+    <Transaction>2021/04/21 20:26:42.000.464,C:\BUILDERPROJECTS\mainUnit.cpp=C:\BUILDERPROJECTS\LAB5\mainUnit.cpp</Transaction>
+    <Transaction>2021/04/21 20:26:42.000.464,C:\BUILDERPROJECTS\mainUnit.dfm=C:\BUILDERPROJECTS\LAB5\mainUnit.dfm</Transaction>
+    <Transaction>2021/04/21 20:26:42.000.464,C:\BUILDERPROJECTS\mainUnit.h=C:\BUILDERPROJECTS\LAB5\mainUnit.h</Transaction>
+    <Transaction>2021/04/21 20:26:43.000.364,C:\BUILDERPROJECTS\LAB5PCH1.h=C:\BUILDERPROJECTS\LAB5\LAB5PCH1.h</Transaction>
+    <Transaction>2021/04/21 20:26:44.000.266,C:\BUILDERPROJECTS\LAB5.cbproj=C:\BUILDERPROJECTS\LAB5\LAB5.cbproj</Transaction>
+    <Transaction>2021/04/21 20:30:02.000.412,C:\BUILDERPROJECTS\LAB5\MyOwnList.cpp=C:\BUILDERPROJECTS\LAB5\PointsList.cpp</Transaction>
+    <Transaction>2021/04/21 20:30:02.000.412,C:\BUILDERPROJECTS\LAB5\MyOwnList.h=C:\BUILDERPROJECTS\LAB5\PointsList.h</Transaction>
+    <Transaction>2021/04/21 20:47:01.000.816,=C:\BUILDERPROJECTS\LAB5\Unit1.cpp</Transaction>
+    <Transaction>2021/04/21 20:47:34.000.747,C:\BUILDERPROJECTS\LAB5\MyOwnQueue.h=C:\BUILDERPROJECTS\LAB5\Unit1.h</Transaction>
+    <Transaction>2021/04/21 20:47:34.000.747,C:\BUILDERPROJECTS\LAB5\MyOwnQueue.cpp=C:\BUILDERPROJECTS\LAB5\Unit1.cpp</Transaction>
+    <Transaction>2021/04/22 20:36:04.000.856,=C:\BUILDERPROJECTS\LAB5\Unit1.cpp</Transaction>
+    <Transaction>2021/04/22 20:36:28.000.202,C:\BUILDERPROJECTS\LAB5\Unit1.cpp=C:\BUILDERPROJECTS\LAB5\MyOwnDoubleList.cpp</Transaction>
+    <Transaction>2021/04/22 20:36:28.000.202,C:\BUILDERPROJECTS\LAB5\Unit1.h=C:\BUILDERPROJECTS\LAB5\MyOwnDoubleList.h</Transaction>
+    <Transaction>2021/04/22 20:50:20.000.393,=C:\BUILDERPROJECTS\LAB5\Unit1.cpp</Transaction>
+    <Transaction>2021/04/22 20:52:19.000.710,C:\BUILDERPROJECTS\LAB5\Unit1.cpp=C:\BUILDERPROJECTS\LAB5\myDeque.cpp</Transaction>
+    <Transaction>2021/04/22 20:52:19.000.710,C:\BUILDERPROJECTS\LAB5\Unit1.h=C:\BUILDERPROJECTS\LAB5\myDeque.h</Transaction>
+    <Transaction>2021/04/22 20:58:56.000.649,C:\BUILDERPROJECTS\LAB5\myDeque.cpp=C:\BUILDERPROJECTS\LAB5\yDeque.cpp</Transaction>
+    <Transaction>2021/04/22 20:58:56.000.649,C:\BUILDERPROJECTS\LAB5\myDeque.h=C:\BUILDERPROJECTS\LAB5\yDeque.h</Transaction>
+    <Transaction>2021/04/22 20:59:01.000.666,C:\BUILDERPROJECTS\LAB5\yDeque.h=C:\BUILDERPROJECTS\LAB5\MyDeque.h</Transaction>
+    <Transaction>2021/04/22 20:59:01.000.666,C:\BUILDERPROJECTS\LAB5\yDeque.cpp=C:\BUILDERPROJECTS\LAB5\MyDeque.cpp</Transaction>
+    <Transaction>2021/04/22 22:10:38.000.068,C:\BUILDERPROJECTS\LAB5\MyOwnDoubleList.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="LAB5.cpp"/>
+    <File Path="LAB5PCH1.h"/>
+    <File Path="mainUnit.cpp"/>
+    <File Path="mainUnit.cpp"/>
+    <File Path="mainUnit.dfm"/>
+    <File Path="c:\builder\..\BUILDERPROJECTS\LAB5\mainUnit.h"/>
+    <File Path="MyOwnList.cpp"/>
+    <File Path="MyOwnList.cpp"/>
+    <File Path="c:\builder\..\BUILDERPROJECTS\LAB5\MyOwnList.h"/>
+    <File Path="MyOwnQueue.cpp"/>
+    <File Path="MyOwnQueue.cpp"/>
+    <File Path="c:\builder\..\BUILDERPROJECTS\LAB5\MyOwnQueue.h"/>
+    <File Path="MyDeque.cpp"/>
+    <File Path="MyDeque.cpp"/>
+    <File Path="c:\builder\..\BUILDERPROJECTS\LAB5\MyDeque.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

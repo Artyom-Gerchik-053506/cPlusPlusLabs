@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/08 18:49:36.000.271,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/08 18:49:36.000.177,=C:\BUILDERPROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>2021/04/08 18:49:42.000.979,C:\BUILDERPROJECTS\Project1.cbproj=C:\BUILDERPROJECTS\LAB4.cbproj</Transaction>
+    <Transaction>2021/04/08 18:49:42.000.970,C:\BUILDERPROJECTS\Project1PCH1.h=C:\BUILDERPROJECTS\LAB4PCH1.h</Transaction>
+    <Transaction>2021/04/08 18:49:53.000.369,C:\BUILDERPROJECTS\Unit1.cpp=C:\BUILDERPROJECTS\MainUnit.cpp</Transaction>
+    <Transaction>2021/04/08 18:49:53.000.369,C:\BUILDERPROJECTS\Unit1.h=C:\BUILDERPROJECTS\MainUnit.h</Transaction>
+    <Transaction>2021/04/08 18:49:53.000.369,C:\BUILDERPROJECTS\Unit1.dfm=C:\BUILDERPROJECTS\MainUnit.dfm</Transaction>
+    <Transaction>2021/04/08 18:49:57.000.268,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/08 18:50:06.000.003,C:\BUILDERPROJECTS\Unit1.h=C:\BUILDERPROJECTS\MyOwnStack.h</Transaction>
+    <Transaction>2021/04/08 18:50:06.000.003,C:\BUILDERPROJECTS\Unit1.cpp=C:\BUILDERPROJECTS\MyOwnStack.cpp</Transaction>
+    <Transaction>2021/04/08 18:50:19.000.437,C:\BUILDERPROJECTS\MyOwnStack.h=C:\BUILDERPROJECTS\LAB4\MyOwnStack.h</Transaction>
+    <Transaction>2021/04/08 18:50:19.000.437,C:\BUILDERPROJECTS\MyOwnStack.cpp=C:\BUILDERPROJECTS\LAB4\MyOwnStack.cpp</Transaction>
+    <Transaction>2021/04/08 18:50:20.000.636,C:\BUILDERPROJECTS\MainUnit.h=C:\BUILDERPROJECTS\LAB4\MainUnit.h</Transaction>
+    <Transaction>2021/04/08 18:50:20.000.636,C:\BUILDERPROJECTS\MainUnit.dfm=C:\BUILDERPROJECTS\LAB4\MainUnit.dfm</Transaction>
+    <Transaction>2021/04/08 18:50:20.000.636,C:\BUILDERPROJECTS\MainUnit.cpp=C:\BUILDERPROJECTS\LAB4\MainUnit.cpp</Transaction>
+    <Transaction>2021/04/08 18:50:21.000.819,C:\BUILDERPROJECTS\LAB4PCH1.h=C:\BUILDERPROJECTS\LAB4\LAB4PCH1.h</Transaction>
+    <Transaction>2021/04/08 18:50:23.000.474,C:\BUILDERPROJECTS\LAB4.cbproj=C:\BUILDERPROJECTS\LAB4\LAB4.cbproj</Transaction>
+    <Transaction>2021/04/08 20:02:26.000.944,=C:\BUILDERPROJECTS\LAB4\Unit1.cpp</Transaction>
+    <Transaction>2021/04/08 20:02:42.000.608,C:\BUILDERPROJECTS\LAB4\Unit1.h=C:\BUILDERPROJECTS\LAB4\Brain.h</Transaction>
+    <Transaction>2021/04/08 20:02:42.000.608,C:\BUILDERPROJECTS\LAB4\Unit1.cpp=C:\BUILDERPROJECTS\LAB4\Brain.cpp</Transaction>
+    <Transaction>2021/04/12 23:24:00.000.511,=C:\BUILDERPROJECTS\LAB4\Unit1.cpp</Transaction>
+    <Transaction>2021/04/12 23:24:14.000.570,C:\BUILDERPROJECTS\LAB4\Unit1.h=C:\BUILDERPROJECTS\LAB4\MyOwnStackForNum.h</Transaction>
+    <Transaction>2021/04/12 23:24:14.000.570,C:\BUILDERPROJECTS\LAB4\Unit1.cpp=C:\BUILDERPROJECTS\LAB4\MyOwnStackForNum.cpp</Transaction>
+    <Transaction>2021/04/13 00:31:54.000.002,=C:\BUILDERPROJECTS\LAB4\tinyexpr-master\tinyexpr.h</Transaction>
+    <Transaction>2021/04/13 00:32:31.000.037,C:\BUILDERPROJECTS\LAB4\tinyexpr-master\tinyexpr.h=</Transaction>
+    <Transaction>2021/04/13 01:04:27.000.162,=C:\BUILDERPROJECTS\LAB4\tinyexpr.c</Transaction>
+    <Transaction>2021/04/13 01:04:35.000.816,=C:\BUILDERPROJECTS\LAB4\tinyexpr.h</Transaction>
+    <Transaction>2021/04/13 01:24:35.000.834,C:\BUILDERPROJECTS\LAB4\tinyexpr.c=</Transaction>
+    <Transaction>2021/04/13 01:24:38.000.584,C:\BUILDERPROJECTS\LAB4\tinyexpr.h=</Transaction>
+    <Transaction>2021/04/13 20:33:23.000.163,=C:\BUILDERPROJECTS\LAB4\exprtk.hpp</Transaction>
+    <Transaction>2021/04/13 21:12:06.000.050,C:\BUILDERPROJECTS\LAB4\exprtk.hpp=</Transaction>
+    <Transaction>2021/04/13 22:23:50.000.770,=C:\BUILDERPROJECTS\LAB4\tinyexpr.h</Transaction>
+    <Transaction>2021/04/13 22:24:02.000.730,=C:\BUILDERPROJECTS\LAB4\tinyexpr.c</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="LAB4.cpp"/>
+    <File Path="LAB4PCH1.h"/>
+    <File Path="MainUnit.cpp"/>
+    <File Path="MainUnit.cpp"/>
+    <File Path="MainUnit.dfm"/>
+    <File Path="c:\builder\..\BUILDERPROJECTS\LAB4\MainUnit.h"/>
+    <File Path="Brain.cpp"/>
+    <File Path="Brain.cpp"/>
+    <File Path="c:\builder\..\BUILDERPROJECTS\LAB4\Brain.h"/>
+    <File Path="MyOwnStack.cpp"/>
+    <File Path="MyOwnStack.cpp"/>
+    <File Path="c:\builder\..\BUILDERPROJECTS\LAB4\MyOwnStack.h"/>
+    <File Path="MyOwnStackForNum.cpp"/>
+    <File Path="MyOwnStackForNum.cpp"/>
+    <File Path="c:\builder\..\BUILDERPROJECTS\LAB4\MyOwnStackForNum.h"/>
+    <File Path="tinyexpr.h"/>
+    <File Path="tinyexpr.c"/>
+  </ProjectSortOrder>
+</BorlandProject>

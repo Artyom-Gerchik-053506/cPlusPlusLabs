@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/14 18:26:18.000.884,=D:\BUILDER_PROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>2021/02/14 18:26:19.000.135,=D:\BUILDER_PROJECTS\Unit2.cpp</Transaction>
+    <Transaction>2021/02/14 18:27:09.000.902,D:\BUILDER_PROJECTS\Project1.cbproj=D:\BUILDER_PROJECTS\LAB 1 IND 2.cbproj</Transaction>
+    <Transaction>2021/02/14 18:27:09.000.898,D:\BUILDER_PROJECTS\Project1PCH1.h=D:\BUILDER_PROJECTS\LAB 1 IND 2PCH1.h</Transaction>
+    <Transaction>2021/02/14 18:48:07.000.443,=D:\BUILDER_PROJECTS\File1.h</Transaction>
+    <Transaction>2021/02/14 19:48:14.000.634,D:\BUILDER_PROJECTS\File1.h=D:\BUILDER_PROJECTS\mnogougolnik.h</Transaction>
+    <Transaction>2021/02/14 21:31:20.000.704,=D:\BUILDER_PROJECTS\Unit3.cpp</Transaction>
+    <Transaction>2021/02/14 21:31:40.000.681,D:\BUILDER_PROJECTS\Unit3.h=D:\BUILDER_PROJECTS\mnogougolnikHUD.h</Transaction>
+    <Transaction>2021/02/14 21:31:40.000.681,D:\BUILDER_PROJECTS\Unit3.cpp=D:\BUILDER_PROJECTS\mnogougolnikHUD.cpp</Transaction>
+    <Transaction>2021/02/14 21:31:40.000.681,D:\BUILDER_PROJECTS\Unit3.dfm=D:\BUILDER_PROJECTS\mnogougolnikHUD.dfm</Transaction>
+    <Transaction>2021/02/14 22:12:12.000.843,D:\BUILDER_PROJECTS\LAB 1 IND 2.cbproj=D:\BUILDER_PROJECTS\LAB 1 IND 2.cbproj</Transaction>
+    <Transaction>2021/02/14 22:34:41.000.856,D:\BUILDER_PROJECTS\mnogougolnikHUD.cpp=</Transaction>
+    <Transaction>2021/02/14 22:36:01.000.354,D:\BUILDER_PROJECTS\LAB 1 IND 2PCH1.h=</Transaction>
+    <Transaction>2021/02/14 22:44:38.000.871,=D:\BUILDER_PROJECTS\File1.h</Transaction>
+    <Transaction>2021/02/14 22:44:48.000.047,D:\BUILDER_PROJECTS\krug.h=D:\BUILDER_PROJECTS\File1.h</Transaction>
+    <Transaction>2021/02/15 18:33:58.000.528,=D:\BUILDER_PROJECTS\File1.h</Transaction>
+    <Transaction>2021/02/15 18:34:12.000.389,D:\BUILDER_PROJECTS\File1.h=D:\BUILDER_PROJECTS\pryamougolnik.h</Transaction>
+    <Transaction>2021/02/15 19:34:03.000.506,=D:\BUILDER_PROJECTS\File1.h</Transaction>
+    <Transaction>2021/02/15 19:34:28.000.287,D:\BUILDER_PROJECTS\mnogougolnik.h=D:\BUILDER_PROJECTS\mnogofgfgfdgugolnik.h</Transaction>
+    <Transaction>2021/02/15 19:34:35.000.955,D:\BUILDER_PROJECTS\File1.h=D:\BUILDER_PROJECTS\mnogougolnik.h</Transaction>
+    <Transaction>2021/02/15 21:25:47.000.916,=D:\BUILDER_PROJECTS\File1.h</Transaction>
+    <Transaction>2021/02/15 21:26:00.000.667,D:\BUILDER_PROJECTS\square.h=D:\BUILDER_PROJECTS\File1.h</Transaction>
+    <Transaction>2021/02/16 18:51:28.000.465,D:\BUILDER_PROJECTS\teugolnik.h=D:\BUILDER_PROJECTS\mnogofgfgfdgugolnik.h</Transaction>
+    <Transaction>2021/02/16 18:51:43.000.789,D:\BUILDER_PROJECTS\treugolnik.h=D:\BUILDER_PROJECTS\teugolnik.h</Transaction>
+    <Transaction>2021/02/23 22:28:12.000.059,=D:\BUILDER_PROJECTS\File1.h</Transaction>
+    <Transaction>2021/02/23 22:28:24.000.036,D:\BUILDER_PROJECTS\File1.h=D:\BUILDER_PROJECTS\ellipse.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="LAB 1 IND 2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="d:\builder\..\BUILDER_PROJECTS\Unit2.h"/>
+    <File Path="mnogougolnik.h"/>
+    <File Path="treugolnik.h"/>
+    <File Path="pryamougolnik.h"/>
+    <File Path="square.h"/>
+    <File Path="krug.h"/>
+    <File Path="ellipse.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
