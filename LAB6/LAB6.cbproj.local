@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2021/04/26 21:24:58.306,=C:\BUILDERPROJECTS\Project1PCH1.h</Transaction>
-    <Transaction>2021/04/26 21:24:58.743,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
-    <Transaction>2021/04/26 21:25:44.173,C:\BUILDERPROJECTS\LAB6.cbproj=C:\BUILDERPROJECTS\Project1.cbproj</Transaction>
-    <Transaction>2021/04/26 21:25:44.173,C:\BUILDERPROJECTS\LAB6PCH1.h=C:\BUILDERPROJECTS\Project1PCH1.h</Transaction>
-    <Transaction>2021/04/26 21:25:52.165,C:\BUILDERPROJECTS\mainUnit.h=C:\BUILDERPROJECTS\Unit1.h</Transaction>
-    <Transaction>2021/04/26 21:25:52.165,C:\BUILDERPROJECTS\mainUnit.dfm=C:\BUILDERPROJECTS\Unit1.dfm</Transaction>
-    <Transaction>2021/04/26 21:25:52.165,C:\BUILDERPROJECTS\mainUnit.cpp=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
-    <Transaction>2021/04/26 21:25:56.463,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
-    <Transaction>2021/04/26 21:26:15.355,C:\BUILDERPROJECTS\MyOwnAVLTree.h=C:\BUILDERPROJECTS\Unit1.h</Transaction>
-    <Transaction>2021/04/26 21:26:15.355,C:\BUILDERPROJECTS\MyOwnAVLTree.cpp=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
-    <Transaction>2021/04/26 21:30:21.508,C:\BUILDERPROJECTS\LAB6\MyOwnAVLTree.cpp=C:\BUILDERPROJECTS\MyOwnAVLTree.cpp</Transaction>
-    <Transaction>2021/04/26 21:30:21.508,C:\BUILDERPROJECTS\LAB6\MyOwnAVLTree.h=C:\BUILDERPROJECTS\MyOwnAVLTree.h</Transaction>
-    <Transaction>2021/04/26 21:30:22.824,C:\BUILDERPROJECTS\LAB6\mainUnit.cpp=C:\BUILDERPROJECTS\mainUnit.cpp</Transaction>
-    <Transaction>2021/04/26 21:30:22.824,C:\BUILDERPROJECTS\LAB6\mainUnit.dfm=C:\BUILDERPROJECTS\mainUnit.dfm</Transaction>
-    <Transaction>2021/04/26 21:30:22.824,C:\BUILDERPROJECTS\LAB6\mainUnit.h=C:\BUILDERPROJECTS\mainUnit.h</Transaction>
-    <Transaction>2021/04/26 21:30:23.908,C:\BUILDERPROJECTS\LAB6\LAB6PCH1.h=C:\BUILDERPROJECTS\LAB6PCH1.h</Transaction>
-    <Transaction>2021/04/26 21:30:24.896,C:\BUILDERPROJECTS\LAB6\LAB6.cbproj=C:\BUILDERPROJECTS\LAB6.cbproj</Transaction>
+	<Transactions>
+    <Transaction>2021/04/26 21:24:58.000.743,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/26 21:24:58.000.306,=C:\BUILDERPROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>2021/04/26 21:25:44.000.173,C:\BUILDERPROJECTS\Project1PCH1.h=C:\BUILDERPROJECTS\LAB6PCH1.h</Transaction>
+    <Transaction>2021/04/26 21:25:44.000.173,C:\BUILDERPROJECTS\Project1.cbproj=C:\BUILDERPROJECTS\LAB6.cbproj</Transaction>
+    <Transaction>2021/04/26 21:25:52.000.165,C:\BUILDERPROJECTS\Unit1.cpp=C:\BUILDERPROJECTS\mainUnit.cpp</Transaction>
+    <Transaction>2021/04/26 21:25:52.000.165,C:\BUILDERPROJECTS\Unit1.dfm=C:\BUILDERPROJECTS\mainUnit.dfm</Transaction>
+    <Transaction>2021/04/26 21:25:52.000.165,C:\BUILDERPROJECTS\Unit1.h=C:\BUILDERPROJECTS\mainUnit.h</Transaction>
+    <Transaction>2021/04/26 21:25:56.000.463,=C:\BUILDERPROJECTS\Unit1.cpp</Transaction>
+    <Transaction>2021/04/26 21:26:15.000.355,C:\BUILDERPROJECTS\Unit1.h=C:\BUILDERPROJECTS\MyOwnAVLTree.h</Transaction>
+    <Transaction>2021/04/26 21:26:15.000.355,C:\BUILDERPROJECTS\Unit1.cpp=C:\BUILDERPROJECTS\MyOwnAVLTree.cpp</Transaction>
+    <Transaction>2021/04/26 21:30:21.000.508,C:\BUILDERPROJECTS\MyOwnAVLTree.cpp=C:\BUILDERPROJECTS\LAB6\MyOwnAVLTree.cpp</Transaction>
+    <Transaction>2021/04/26 21:30:21.000.508,C:\BUILDERPROJECTS\MyOwnAVLTree.h=C:\BUILDERPROJECTS\LAB6\MyOwnAVLTree.h</Transaction>
+    <Transaction>2021/04/26 21:30:22.000.824,C:\BUILDERPROJECTS\mainUnit.h=C:\BUILDERPROJECTS\LAB6\mainUnit.h</Transaction>
+    <Transaction>2021/04/26 21:30:22.000.824,C:\BUILDERPROJECTS\mainUnit.cpp=C:\BUILDERPROJECTS\LAB6\mainUnit.cpp</Transaction>
+    <Transaction>2021/04/26 21:30:22.000.824,C:\BUILDERPROJECTS\mainUnit.dfm=C:\BUILDERPROJECTS\LAB6\mainUnit.dfm</Transaction>
+    <Transaction>2021/04/26 21:30:23.000.908,C:\BUILDERPROJECTS\LAB6PCH1.h=C:\BUILDERPROJECTS\LAB6\LAB6PCH1.h</Transaction>
+    <Transaction>2021/04/26 21:30:24.000.896,C:\BUILDERPROJECTS\LAB6.cbproj=C:\BUILDERPROJECTS\LAB6\LAB6.cbproj</Transaction>
   </Transactions>
 </BorlandProject>
